@@ -21,7 +21,7 @@ function readPointer(v: any): Uint8Array {
 }
 
 const url = new URL(
-  "https://t3.zsqk.com.cn/webusb/0.5.0",
+  "https://t3.zsqk.com.cn/files/webusb/0.5.0",
   import.meta.url,
 )
 let uri = url.toString()
